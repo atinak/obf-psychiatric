@@ -1,7 +1,7 @@
 ## *OBF-Psychiatric ML Classifiers*
 This repository provides an optimized machine learning pipeline for classifying psychiatric conditions using the OBF-Psychiatric dataset (motor activity data from patients with depression, schizophrenia, ADHD, and controls).
 
-🔹 ### *Features*:
+### *Features*:
 notebook : obf_ml.ipynb
 Feature engineering techniques to extract temporal patterns
 
