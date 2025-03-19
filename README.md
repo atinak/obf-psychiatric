@@ -13,14 +13,15 @@ This repository provides an optimized machine learning pipeline for classifying 
 ```bash
 git clone https://github.com/atinak/obf-psychiatric.git
 cd obf-psychiatric
-Install dependencies:
 ```
+2. Install dependencies:
+
 ```bash
 
 conda create -n obf-ml python=3.10
 conda activate obf-ml
 pip install -r requirements.txt
-
+```
 
 
 ## 📌 About the dataset:
