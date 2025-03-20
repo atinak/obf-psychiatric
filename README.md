@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## 📌 About the dataset:
 The OBF-Psychiatric dataset consists of actigraphy-based motor activity recordings from patients diagnosed with psychiatric disorders, making it useful for mental health research & digital biomarkers.
-The original data can be found in:
+The original dataset can be found in:
 Garcia-Ceja, E., Stautland, A., Riegler, M.A. et al. OBF-Psychiatric, a motor activity dataset of patients diagnosed with major depression, schizophrenia, and ADHD. Sci Data 12, 32 (2025). https://doi.org/10.1038/s41597-025-04384-3
 
 
