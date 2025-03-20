@@ -1,0 +1,17 @@
+# Core dependencies
+torch>=2.0.0  # PyTorch for deep learning
+scikit-learn>=1.0.0  # For metrics, preprocessing, and utilities
+matplotlib>=3.5.0  # For plotting
+seaborn>=0.11.0  # For enhanced visualizations
+pandas>=1.3.0  # For data manipulation
+numpy>=1.21.0  # For numerical computations
+
+# Dependencies for ml_models.py
+xgboost>=1.7.0  # For XGBoost classifier
+cuml>=22.08.0  # For GPU-accelerated machine learning (requires CUDA)
+cudf>=22.08.0  # For GPU-accelerated DataFrame operations (requires CUDA)
+joblib>=1.2.0  # For saving and loading models
+scipy>=1.7.0  # For statistical distributions (e.g., uniform, randint)
+
+# Optional dependencies (if needed for additional functionality)
+tqdm>=4.62.0  # For progress bars (optional)
